@@ -62,6 +62,6 @@ Nuwanthik</a></h1>
 
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
+Credit: [Nuwanthika Devindi](https://github.com/100rabhcsmc)
 
 Last Edited on: 08/08/2022
