@@ -20,9 +20,9 @@ Nuwanthik</a></h1>
 
 - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **affermative & negative**
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **devindinuwanthika22@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
